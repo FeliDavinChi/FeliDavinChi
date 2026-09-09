@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ­**Currently building:** a RAG pipeline for enterprise document Q&A
 -  **Learning:** LLM fine-tuning and Harness
 -  **Open to:** applied AI research and open-source ML libraries as well as webdev ;)
--  **Fun fact:** will sit with you till we cry
+-  **Fun fact:** I like exploring new tech :D
 
 ## Tech Stack
 
