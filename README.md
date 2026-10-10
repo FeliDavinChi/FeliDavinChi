@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ­**Currently building:** a personalized system for seemless experience (apple like hopefully)
 -  **Learning:** LLM fine-tuning and Harness
 -  **Open to:** applied AI research and open-source ML libraries as well as webdev ;)
--  **Fun fact:** I like exploring new tech :D
+-  **Fun fact:** I like exploring new tech and LOVE sports as well :D
 
 ## Tech Stack
 
