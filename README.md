@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #  Hi, I'm Manas Gupta!
 
-> Turning data into decisions with statistical rigor & Learning every day, building every weekend
+> Turning data into decisions with statistical rigor & Learning every day, building every weekend with pleasure ;)
 
 ## About Me
 
