@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## About Me
 
 - ­**Currently building:** a personalized system for seemless experience (apple like hopefully)
--  **Learning:** LLM fine-tuning and Harness
+-  **Learning:** LLM fine-tuning and Harness aswell as focusing on SLM's aswell
 -  **Open to:** applied AI research and open-source ML libraries as well as webdev ;)
 -  **Fun fact:** I like exploring new tech and LOVE sports as well :D
 
